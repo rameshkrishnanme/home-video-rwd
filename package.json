@@ -1,0 +1,20 @@
+{
+  "name": "home-video-rwd",
+  "version": "1.0.0",
+  "description": "Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)\r  ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))",
+  "main": "home-video-rwd.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "http-server": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git@gitlab-mt.stackroute.in/Ramesh.krishnan/homevideorwd.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
